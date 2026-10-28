@@ -1,5 +1,5 @@
 using UnityEngine;
-//bongo
+//bingo
 public class newScript
 {
     
