@@ -2,5 +2,5 @@ using UnityEngine;
 
 public class newScript
 {
-    int v = 3;
+    int v = 1000;
 }
